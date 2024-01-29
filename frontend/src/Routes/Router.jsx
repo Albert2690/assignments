@@ -6,6 +6,8 @@ import StudentAttendance from '../Pages/StudentAttendance'
 function Routerr() {
   console.log("hollu")
   console.log("hollurrttt")
+  console.log("hollurrtttyy")
+
 
   return (
    
