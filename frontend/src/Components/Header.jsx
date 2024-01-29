@@ -62,8 +62,8 @@ const toggleMenu = ()=>{
 
   return (
     <header className="header flex items-center" ref={headref}>
-      <div className="container">
-        <div className="flex items-center justify-between">
+      <div className="container ">
+        <div className="flex items-center justify-between"> 
           <div>
            
             {/* Logo here */}
