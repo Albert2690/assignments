@@ -4,6 +4,7 @@ import Home from '../Pages/Home'
 import StudentAttendance from '../Pages/StudentAttendance'
 
 function Routerr() {
+  console.log("hollu")
   return (
    
 
